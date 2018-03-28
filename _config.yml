@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://gcohenfr.github.io"
+url: "http://adamschonewille.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Gabriela V. Cohen Freue
+title: Adam J. Schonewille
 
 # Short description of your site
-description: Professor of Statistics
+description: Engineer, Personal Website
 
 # --- Navigation bar options --- #
 
@@ -32,7 +32,7 @@ navbar-links:
 #  Teaching:
 #    - STAT 450 - Case Studies in Statistics: "https://courses.students.ubc.ca/cs/main?pname=subjarea&tname=subjareas&req=3&dept=STAT&course=450"
   STAT 548: "stat548"
-  
+
 #  Contact: "https://www.stat.ubc.ca/users/gabriela-v-cohen-freue"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -48,21 +48,21 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Gabriela V. Cohen Freue
-  email: "gcohen@stat.ubc.ca"
+  name: Adam J. Schonewille
+  email: "adamschonewille@gmail.com"
   #facebook: yourname  # eg. daattali
-  github: gcohenfr    # eg. daattali
+  github:  "adamschonewille"   # eg. daattali
   #twitter: yourname   # eg. daattali
   #reddit: yourname    # eg. daattali
   #google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  #linkedin: yourname  # eg. daattali
+  linkedin: "adam-schonewille-581310107"  # eg. daattali
   #xing: yourname      # eg. daattali
   #stackoverflow: yourlink  # eg. "3943160/daattali"
   #snapchat: yourname  # eg. daattali
   #instagram: yourname # eg. daattali
   #youtube: yourlink   # eg. user/daattali or channel/daattali
   #spotify: yourname   # eg. daattali
-  telephone: +16048223710   # eg. +14159998888
+  telephone: +16048256843   # eg. +14159998888
 
 # Select which links to show in the footer
 footer-links-active:
@@ -98,7 +98,7 @@ url-pretty: "Home"  # eg. "deanattali.com/beautiful-jekyll"
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-92045636-1"
+google_analytics: "UA-116561761-1"
 
 # Google Tag Manager ID
 #gtm: ""
