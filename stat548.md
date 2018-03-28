@@ -4,6 +4,7 @@ title: STAT 548
 subtitle: PhD Qualifying Course
 ---
 
+<!--
 # Overview 2016-2017
 I work in statistical problems that usually appear in the analysis of proteomics and genomics data. For example, in these applications, some variables may be measured with error, the number of features is much larger than the number of observations, the observations are not always independent, outliers are present in the data, among others. Some extensions of classical estimation approaches have been proposed to address some of these characteristics and others remain open problems for future research.
 
@@ -23,3 +24,6 @@ of the American Statistical Association* ***110***, 270-288.
 
 4. Tarr G, Muller S, Weber NC (2016) Robust estimation of precision matrices under
 cellwise contamination, *Computational Statistics and Data Analysis* ***93***, 404-420
+-->
+
+This page is currently under maintenance.

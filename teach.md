@@ -4,6 +4,7 @@ title: Teaching
 subtitle:
 ---
 
+<!--
 My main goal at teaching is that the students seek a deep understanding of new or relevant concepts, which I pursue by encouraging active learning and bringing to the classroom real world problems. It is important that students not only learn and review statistical concepts, but also grasp their relevance and need to solve meaningful problems.
 
 # [STAT450](https://courses.students.ubc.ca/cs/main?pname=subjarea&tname=subjareas&req=3&dept=STAT&course=450): Case Studies in Statistics
@@ -32,3 +33,7 @@ This course aims to provide the students with modern and up-to-date statistical 
 - to examine typical problems of high throughput biological data
 - to explore, visualize, and analyze large datasets emphasizing on the reproducibility of the analysis
 - to promote interdisciplinary and collaborative work
+
+-->
+
+This page is currently under maintenance.
