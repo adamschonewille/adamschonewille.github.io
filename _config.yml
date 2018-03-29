@@ -24,7 +24,7 @@ description: Engineer, Personal Website
 # List of links in the navigation bar
 navbar-links:
  # About Me: "aboutme"
-  Home: "index"
+  Home: "Home"
   Publications: "pub"
   Collaborations: "collab"
   Team: "team"

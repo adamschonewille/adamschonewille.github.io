@@ -36,7 +36,7 @@ A full list of publications and other contributions is available in my [Curricul
 
 1) Kotaro Obata, ***Adam Schonewille***, Shayna Slobin, Arndt Hohnholz, Claudia Unger, Jürgen Koch, Oliver Suttmann, and Ludger Overmeyer. (2017). *"Hybrid 2D patterning using UV laser direct writing and aerosol jet printing of UV curable polydimethylsiloxane"*. Applied Physics Letters. 111: 121903.
 
-2) Kotaro Obata, Shayna Slobin, ***Adam Schonewille***, Arndt Hohnholz, Claudia Unger, Jürgen Koch, Oliver Suttmann, Ludger Overmeyer. (2017). *"UV laser direct writing of 2D/3D structures using photo-curable polydimethylsiloxane (PDMS)"*. Applied Physics A. 123: 495.
+2) Kotaro Obata, Shayna Slobin, ***Adam Schonewille***, Arndt Hohnholz, Claudia Unger, Jürgen Koch, Oliver Suttmann, and Ludger Overmeyer. (2017). *"UV laser direct writing of 2D/3D structures using photo-curable polydimethylsiloxane (PDMS)"*. Applied Physics A. 123: 495.
 
 <br>
 
