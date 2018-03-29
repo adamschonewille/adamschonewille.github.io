@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Engineering Subject and Material
+title: Engineering Subjects
 subtitle: List of Courses Enrolled in
 ---
 
