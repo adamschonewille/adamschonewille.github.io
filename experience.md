@@ -4,6 +4,8 @@ title: Experience
 subtitle:
 ---
 
-## Work experience
+## Work Experience
 
 This page is currently under maintenance.
+
+## Research Experience

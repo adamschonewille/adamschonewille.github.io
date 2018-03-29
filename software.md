@@ -1,6 +1,6 @@
 ---
 layout: page
-title: R-packages
+title: Software Tidbits
 ---
 
 <!--
