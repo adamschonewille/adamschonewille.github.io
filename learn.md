@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Teaching
-subtitle:
+title: Engineering Subject and Material
+subtitle: List of Courses Enrolled in
 ---
+
+
 
 <!--
 My main goal at teaching is that the students seek a deep understanding of new or relevant concepts, which I pursue by encouraging active learning and bringing to the classroom real world problems. It is important that students not only learn and review statistical concepts, but also grasp their relevance and need to solve meaningful problems.
