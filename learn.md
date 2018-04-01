@@ -38,5 +38,3 @@ This course aims to provide the students with modern and up-to-date statistical 
 - to promote interdisciplinary and collaborative work
 
 -->
-
-This page is currently under maintenance.
