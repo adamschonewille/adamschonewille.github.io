@@ -4,8 +4,7 @@ title: Engineering Subjects
 subtitle: List of Courses Enrolled in
 ---
 
-This page is currently under maintenance.
-
+What follows is a compilation of all of the university courses I have taken or am currently enrolled in. These courses are in order of most recent to least recent.
 
 <!--
 My main goal at teaching is that the students seek a deep understanding of new or relevant concepts, which I pursue by encouraging active learning and bringing to the classroom real world problems. It is important that students not only learn and review statistical concepts, but also grasp their relevance and need to solve meaningful problems.
@@ -41,6 +40,8 @@ This course aims to provide the students with modern and up-to-date statistical 
 
 # **UNIVERSITY OF BRITISH COLUMBIA**
 ## B.A.Sc. in Engineering Physics
+
+The following courses are from my undergraduate degree.
 
 ## Winter Session (2017-2018)
 ### Semester 2
@@ -341,5 +342,8 @@ Chemical bonding, properties of matter. Chemical thermodynamics with application
 Study and application of the principles of university-level discourse, with emphasis on expository and persuasive writing. Essays and exercises are required.
 
 
-## Started school at the University of British Columbia
+## *Started school at the University of British Columbia*
 ## September 2013
+
+
+This page was last updated on March 31 2018
