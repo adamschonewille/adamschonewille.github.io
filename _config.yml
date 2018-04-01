@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Adam J. Schonewille
+title: Adam Schonewille
 
 # Short description of your site
 description: Engineer, Personal Website
@@ -52,7 +52,7 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Adam J. Schonewille
+  name: Adam Schonewille
   email: "adamschonewille@gmail.com"
   #facebook: yourname  # eg. daattali
   github:  "adamschonewille"   # eg. daattali
