@@ -39,11 +39,11 @@ This course aims to provide the students with modern and up-to-date statistical 
 
 -->
 
-# UNIVERSITY OF BRITISH COLUMBIA
+# **UNIVERSITY OF BRITISH COLUMBIA**
 ## B.A.Sc. in Engineering Physics
 
-### Winter Session (2017-2018)
-Semester 2
+## Winter Session (2017-2018)
+### Semester 2
 
 **MECH 520** - *Control, Sensors, and Actuators*
 
@@ -70,7 +70,7 @@ Principles and applications of statistical mechanics. Ideal gases, degenerate Fe
 Principles and applications of optical physics. Interference, diffraction, coherence, polarization, Fresnel relations, optical coatings, waves in dielectric media, Gaussian beams, waveguides, optical cavities, lasers, fibre optics, and Fourier optics.
 
 
-Semester 1
+### Semester 1
 
 **MATH 406** - *Variational and Approximate Methods in Applied Mathematics*
 
@@ -101,16 +101,16 @@ Legislation affecting the practice of engineering; ethical principles and respon
 Introduction to the language. Ability to communicate accurately in a variety of everyday situations.
 
 
-### Summer Session (2017)
+## Summer Session (2017)
 
 **APSC 410** - *Co-operative Work Placement*
 
 Supervised, technical work experience in an established company or organization for a minimum of three months. Technical report. Restricted to students meeting the requirements of the Faculty of Applied Science and the Co-operative Education Program.
 
 
-# Winter Session (2016-2017)
+## Winter Session (2016-2017)
 
-Semester 2
+### Semester 2
 
 **MECH 464** - *Industrial Robotics*
 
@@ -141,7 +141,7 @@ Separation of variables, first order equations, Sturm-Liouville theory, integral
 Random variables, discrete and continuous distributions. Random walk, Markov chains, Monte Carlo methods. Characteristic functions, limit laws.
 
 
-Semester 1
+### Semester 1
 
 **APSC 310** - *Co-operative Work Placement*
 
@@ -152,7 +152,7 @@ Supervised, technical work experience in an established company or organization 
 Project planning, management and reporting. This course involves writing a project proposal, carrying out an open-ended Engineering project, and reporting the results both orally and in writing.
 
 
-# Summer Session (2016)
+## Summer Session (2016)
 
 **APSC 210** - *Co-operative Work Placement*
 
@@ -160,9 +160,9 @@ Supervised, technical work experience in an established company or organization 
 
 **EXCH 381** - *Study Abroad Program*
 
-# Winter Session (2015-2016)
+## Winter Session (2015-2016)
 
-Semester 2
+### Semester 2
 
 **PHYS 350** - *Applications of Classical Mechanics*
 
@@ -193,8 +193,7 @@ Functions of a complex variable, Cauchy-Riemann equations, contour integration, 
 Principles and applications of quantum mechanics, wave mechanics, the Schroedinger equation, expectation values, Hermitian operators, commuting observables, one-dimensional systems, harmonic oscillators, angular momentum, three dimensional systems, time dependent perturbations.
 
 
-
-Semester 1
+### Semester 1
 
 **MATH 257** - *Partial Differential Equations*
 
@@ -225,7 +224,7 @@ Complex numbers, LTI systems, convolution sum, discrete-time Fourier series and 
 Introduction to climate change through the lens of local landscapes and future scenarios, using visual media to communicate the underlying science and psychology, and engage communities in local climate change solutions.
 
 
-# Summer Session (2015)
+## Summer Session (2015)
 
 **PHYS 250** - *Introduction to Modern Physics*
 
@@ -248,15 +247,15 @@ Dynamics: systems of particles, kinematics and kinetics of rigid bodies (plane m
 Applications of linear algebra to problems in science and engineering; use of computer algebra systems for solving problems in linear algebra.
 
 
-# Winter Session (2014-2015)
+## Winter Session (2014-2015)
 
-Semester 2
+### Semester 2
 
 **APSC 110** - *Co-operative Work Placement*
 
 Supervised, technical work experience in an established company or organization for a minimum of three months. Technical report. Restricted to students meeting the requirements of the Faculty of Applied Science and the Co-operative Education Program.
 
-Semester 1
+### Semester 1
 
 **MATH 255** - *Ordinary Differential Equations*
 
@@ -284,13 +283,13 @@ Design, implementation, reasoning about software systems: abstraction and specif
 
 
 
-# Summer Session (2014)
+## Summer Session (2014)
 
 **PHIL 101** - *Introduction to Philosophy*
 
 Basic problems and methods of philosophy. Topics such as the nature and scope of human knowledge, the existence of God, and the relationship between mind and body.
 
-# Winter Session (2013-2014)
+## Winter Session (2013-2014)
 
 Semester 2
 
@@ -315,7 +314,7 @@ Thermometry, thermal properties of matter, heat, oscillations, waves, sound, wav
 Application of scientific principles and technical knowledge to practical problems. Introduction to the engineering design process and to engineering graphics.
 
 
-Semester 1
+### Semester 1
 
 **APSC 122** - *Introduction to Engineering*
 
