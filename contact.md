@@ -5,9 +5,9 @@ subtitle:
 ---
 # Current School of Study
 
-**University of British Columbia**
+**University of Toronto**
 
-Vancouver, B.C.
+Toronto, Ontario
 
 **Cell:** 604-825-6843
 
