@@ -4,9 +4,7 @@ title: Contact Information
 subtitle:
 ---
 # Current School of Study
-
 **University of Toronto**
-
 Toronto, Ontario
 
 **Cell:** 604-825-6843
