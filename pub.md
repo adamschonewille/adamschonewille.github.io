@@ -6,11 +6,8 @@ subtitle: List of my most recent publications
 
 ## [Google Scholar](https://scholar.google.ca/citations?user=kkYdbDMAAAAJ&hl=en&oi=ao)
 
-A full list of publications and other contributions is available in my   
+A full list of publications and other contributions is available in my [Curriculum Vitae](https://adamschonewille.github.io/pdfs/20180917_Adam_Schonewille_CV.pdf "Curriculum Vitae") .
 
-[Curriculum Vitae](https://adamschonewille.github.io/pdfs/20180917_Adam_Schonewille_CV.pdf "Curriculum Vitae").
-
-[Curriculum Vitae](./pdfs/20180917_Adam_Schonewille_CV.pdf "Curriculum Vitae").
 
 <!--The name of students that work under my supervision are *italicized*.-->
 

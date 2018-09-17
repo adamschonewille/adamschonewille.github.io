@@ -38,6 +38,27 @@ This course aims to provide the students with modern and up-to-date statistical 
 
 -->
 
+
+# **UNIVERSITY OF TORONTO**
+## M.A.Sc. in Mechanical and Industrial Engineering
+
+The following courses are from my graduate degree.
+
+## Fall Session (2018-2019)
+### Semester 1
+
+**BME 1452** - *Signal Processing for Bioengineering*
+
+Signal processing is used throughout bioengineering both to estimate the state of life processes and to detect changes in these processes. This course introduces the modelling of signals and noise. The basics of detection and estimation theory are studied. There is a strong emphasis on classical techniques such as filtering, averaging, correlation and spectral estimation. Examples are drawn from a wide range of bioengineering problems. The course is targeted towards engineering students collecting experimental data in graduate-level
+research projects.
+
+**AER 525** - *Robotics*
+
+This course extends the fundamentals of analytical robotics to design and control of industrial and aerospace robots and their instrumentation. Topics include forward, inverse, and differential kinematics, screw representation, statics, inverse and forward dynamics, motion and force control of robot manipulators, actuation schemes, task-based and workspace design, position and force sensors, tactile sensing, and vision and image processing in robotic systems. Course instruction benefits from the courseware technology that involves a Java-based on-line simulation and other multimedia means for presenting realistic demonstrations and case studies in the context of teaching advanced notions. A series of experiments in the Robotics Laboratory will also enhance the practical notions of the course content.
+
+## *Started school at the University of Toronto*
+## September 2018
+
 # **UNIVERSITY OF BRITISH COLUMBIA**
 ## B.A.Sc. in Engineering Physics
 
@@ -346,4 +367,4 @@ Study and application of the principles of university-level discourse, with emph
 ## September 2013
 
 
-This page was last updated on March 31 2018
+This page was last updated on September 17 2018
