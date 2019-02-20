@@ -44,7 +44,20 @@ This course aims to provide the students with modern and up-to-date statistical 
 
 The following courses are from my graduate degree.
 
-## Fall Session (2018-2019)
+
+
+## Winter Session (Jan.--May 2019)
+### Semester 2
+
+**MIE 1001** - *Advanced Dynamics*
+
+Variational principles and Lagrange's Equations, Hamilton's principle. Kinematics of rigid body motion, Euler angles, rigid body equations of motion. Hamilton's equations, cyclic coordinates, Legendre transformations. Canonical transformations, Hamilton-Jacobi theory.
+
+**MIE 505** - *Micro/Nano Robotics*
+
+Micro and Nano robotics is an interdisciplinary field which draws on aspects of microfabrication, robotics, medicine and materials science. This project-focused course will cover the design, modeling, fabrication, and control of miniature robot and micro/nano-manipulation systems. The course includes case studies of current micro/nano-systems, challenges and future trends, and potential applications in addition to the fundamentals of physics at small size scales.
+
+## Fall Session (Sept.--Dec. 2018)
 ### Semester 1
 
 **BME 1452** - *Signal Processing for Bioengineering*
@@ -58,6 +71,8 @@ This course extends the fundamentals of analytical robotics to design and contro
 
 ## *Started school at the University of Toronto*
 ## September 2018
+
+__________________________________________________________________________________
 
 # **UNIVERSITY OF BRITISH COLUMBIA**
 ## B.A.Sc. in Engineering Physics
