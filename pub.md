@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-subtitle: List of my most recent publications
+subtitle: A list of my most recent publications
 ---
 
 ## [Google Scholar](https://scholar.google.ca/citations?user=kkYdbDMAAAAJ&hl=en&oi=ao)
