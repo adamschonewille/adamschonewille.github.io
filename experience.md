@@ -17,6 +17,8 @@ arms have 1 and 2 degrees of freedom mount to chase cars for filming application
 **• Documentation:** Kept a detailed report of engineering work and notes on how the system functions for the next person the project is passed onto.<br/>
 **• Troubleshooting and Repairs:** Aided in the diagnosis and repair of several commercially available drones for multiple clients.<br/><br/>
 
+---
+
 ## University of British Columbia – Faculty of Applied Science<br/>
 ### **Robotics Teaching Assistant**<br/>
 *Vancouver, Canada.     May 2018 – Aug. 2018*<br/>
@@ -25,6 +27,8 @@ arms have 1 and 2 degrees of freedom mount to chase cars for filming application
 **• Troubleshooting:** Helped students debug their circuits when they broke or worked unexpectedly. Provided guidance in electrical changes and improvements. Analyzed student’s code to help fix electrical problems. Showed students the microcontroller electrical schematics to show them how to solve their problems.<br/>
 **• Mechatronics projects:** Miscellaneous projects the instructor outsourced to me. These included making IR beacons, a RFID tag door opener, and the electronics of the competition surface.<br/>
 **• Teaching and Advising:** Commented on students mechanical designs and provided insight. Helped students brainstorm solutions to their mechanical design problems. Provided suggestions to electrical circuit design to reduce noise and enhance performance.<br/>
+
+---
 
 ## NORAM Engineering and Constructors Ltd. – Electrochemical Group<br/>
 ### **Mechanical Engineer Co-op**<br/>
@@ -35,12 +39,16 @@ arms have 1 and 2 degrees of freedom mount to chase cars for filming application
 **• Documentation:** Wrote reports to send to clients, documented prototype progress, and kept a detailed logbook of research and
 development experiments.<br/>
 
+---- 
+
 # **Research Experience**
 
 ## University of Toronto – Department of Mechanical and Industrial Engineering<br/>
 ### **Microrobotics Graduate Research Position with Dr. Eric Diller,**<br/>
 *Toronto, Canada.     Sept. 2018 – present*<br/>
 <br/>
+
+---
 
 ## Laser Zentrum Hannover e.V. – Laser Micromachining Group<br/>
 ### **Additive Manufacturing Research Position with Dr. Kotaro Obata and Arndt Hohnholz,**<br/>
@@ -52,6 +60,8 @@ PDMS and micro-fluidics as well as micro-stereolithography with unique polymers 
 **• Academic Publications:** Wrote and edited papers based on findings. Co-author on two manuscripts.<br/>
 **• Safety Training:** Trained for Laser Safety as working environment included optics and hazardous lasers. Trained and worked with
 toxic and combustible chemicals.<br/><br/>
+
+---
 
 ## University of British Columbia – Department of Chemistry and Physics<br/>
 ### **Technical Undergraduate Research Assistant for Dr. Takamasa Momose,**<br/>
@@ -66,3 +76,5 @@ quickly create working prototypes for use in the lab.<br/>
 data acquisition and analysis through MATLAB simulations.<br/>
 **• Research Assistant:** Presented several times to colleagues as part of scheduled weekly meetings. Received acknowledgement for
 my work in the lab in both a PhD thesis and published paper.<br/><br/>
+
+---
