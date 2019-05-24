@@ -9,6 +9,6 @@ Toronto, Ontario
 
 **Cell:** 604-825-6843
 
-**e-mail:** adamschonewille 'at' gmail 'dot' com
+**E-mail:** adamschonewille 'at' gmail 'dot' com
 
 Check out my GitHub or LinkedIn profiles at the bottom of this page!
