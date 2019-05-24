@@ -6,7 +6,7 @@ subtitle:
 This page is a work in progress and is under maintenance.
 ## **Work Experience**
 
-#Drone Logics Ltd.<br/>
+# Drone Logics Ltd. <br/>
 **Robotics Engineer/Drone Technician**<br/>
 *Burnaby, Canada.     June 2018 – Aug. 2018*<br/>
 **• Robotic Arms:** Fixed several controllability issues in software and in electrical design on two robotic arm prototypes. These robot
