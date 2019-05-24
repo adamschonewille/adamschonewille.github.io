@@ -4,10 +4,10 @@ title: Experience
 subtitle:
 ---
 This page is a work in progress and is under maintenance.
-# **Work Experience**
+## **Work Experience**
 
-**Drone Logics Ltd.**<br/>
-*Robotics Engineer/Drone Technician*<br/>
+#Drone Logics Ltd.<br/>
+**Robotics Engineer/Drone Technician**<br/>
 *Burnaby, Canada.     June 2018 – Aug. 2018*<br/>
 **• Robotic Arms:** Fixed several controllability issues in software and in electrical design on two robotic arm prototypes. These robot
 arms have 1 and 2 degrees of freedom mount to chase cars for filming applications where their payload is a camera gimbal.<br/>
@@ -17,9 +17,9 @@ arms have 1 and 2 degrees of freedom mount to chase cars for filming application
 **• Documentation:** Kept a detailed report of engineering work and notes on how the system functions for the next person the project is passed onto.<br/>
 **• Troubleshooting and Repairs:** Aided in the diagnosis and repair of several commercially available drones for multiple clients.<br/><br/>
 
-**University of British Columbia – Faculty of Applied Science**
-*Robotics Teaching Assistant*
-*Vancouver, Canada.     May 2018 – Aug. 2018*
+**University of British Columbia – Faculty of Applied Science**<br/>
+*Robotics Teaching Assistant*<br/>
+*Vancouver, Canada.     May 2018 – Aug. 2018*<br/>
 **About:** The ENPH 253 summer course is a rigorous 4 month course where students design, fabricate, and test prototype autonomous robots to compete against their peers in a competition at a end of course. Students design and build their own motor controller circuits, filters, IR detection circuits, power distribution circuits, as well as constructing everything from the robots chassis to wheels and appendages. Students have access to a variety of tools and materials, utilizing a water jet cutter, laser cutter, 3D printers, drill press, mills, lathe, and power tools to build their robots.<br/>
 
 **• Troubleshooting:** Helped students debug their circuits when they broke or worked unexpectedly. Provided guidance in electrical changes and improvements. Analyzed student’s code to help fix electrical problems. Showed students the microcontroller electrical schematics to show them how to solve their problems.<br/>
