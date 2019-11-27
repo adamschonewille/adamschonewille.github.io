@@ -13,6 +13,6 @@ Toronto, Ontario
 
 or
 
-adam.schonewille 'at' mail 'dot' utoronto 'dot' ca
+adam 'dot' schonewille 'at' mail 'dot' utoronto 'dot' ca
 
 Check out my GitHub or LinkedIn profiles at the bottom of this page!
