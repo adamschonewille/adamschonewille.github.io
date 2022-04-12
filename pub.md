@@ -28,16 +28,27 @@ A full list of publications and other contributions is available in my [Curricul
 
 <br>
 -->
-# Refereed Publications: 2015 -- Present
+# Refereed Publications:
 <!-- EXAMPLES
 1) *Singh, Amrit*, Shannon, Casey, Kim, Young Woong, Yang, Chen Xi, Balshaw, Robert, ***Cohen Freue, Gabriela***, Gauvreau, Gail, FitzGerald, J Mark, Boulet, Louis-Philippe, O'Byrne, Paul, Tebbutt, Scott. Novel blood-based transcriptional biomarker panels predict the late phase asthmatic response. *American Journal of Respiratory and Critical Care Medicine*. Accepted.
 
 2) *Nikolaus Fortelny*, Christopher Overall, Paul Pavlidis, ***Gabriela V. Cohen Freue***. (2017) Can we predict protein from mRNA levels? *Nature* ***547***, E19–E20, doi:10.1038/nature22293 [Link](http://rdcu.be/uvBy) and [pdf](https://gcohenfr.github.io/pdfs/Manuscript_Fortelny_2016-03-03740B.pdf) of the accepted version. With accompanying Shiny Application [here](https://dakep.shinyapps.io/central-dogma/).
 -->
 
-1) Kotaro Obata, ***Adam Schonewille***, Shayna Slobin, Arndt Hohnholz, Claudia Unger, Jürgen Koch, Oliver Suttmann, and Ludger Overmeyer. (2017). *"Hybrid 2D patterning using UV laser direct writing and aerosol jet printing of UV curable polydimethylsiloxane"*. Applied Physics Letters. 111: 121903.
+A. Lim, ***A. Schonewille***, C. Forbrigger, T. Looi, J. Drake, and E. Diller, *“Design and Comparison of Magnetically-Actuated Dexterous Forceps Instruments for Neuroendoscopy.”* IEEE Transactions on Biomedical Engineering, vol. 68, no. 5, pp. 4415-4425, 2021.
 
-2) Kotaro Obata, Shayna Slobin, ***Adam Schonewille***, Arndt Hohnholz, Claudia Unger, Jürgen Koch, Oliver Suttmann, and Ludger Overmeyer. (2017). *"UV laser direct writing of 2D/3D structures using photo-curable polydimethylsiloxane (PDMS)"*. Applied Physics A. 123: 495.
+K. Obata, ***A. Schonewille***, S. Slobin, A. Hohnholz, C. Unger, J. Koch, O. Suttmann, and L. Overmeyer, *“Hybrid 2D patterning using UV laser direct writing and aerosol jet printing of UV curable polydimethylsiloxane.”* Applied Physics Letters, vol. 111, no. 12, pp. 121903, 2017.
+
+K. Obata, S. Slobin, ***A. Schonewille***, A. Hohnholz, C. Unger, J. Koch, O. Suttmann, and L. Overmeyer, *“UV laser direct writing of 2D/3D structures using photo-curable polydimethylsiloxane (PDMS).”* Applied Physics A, vol 123, no. 7, pp. 1-5. 2017.
+
+# Conference Proceedings:
+
+C. Forbrigger, ***A. Schonewille***, and E. Diller, *“A Miniature Magnetic Robot with Tailored Magnetic Torsion Springs,”* IEEE International Conference on Robotics and Automation, 2021.
+
+<!-- 1) Kotaro Obata, ***Adam Schonewille***, Shayna Slobin, Arndt Hohnholz, Claudia Unger, Jürgen Koch, Oliver Suttmann, and Ludger Overmeyer. (2017). *"Hybrid 2D patterning using UV laser direct writing and aerosol jet printing of UV curable polydimethylsiloxane"*. Applied Physics Letters. 111: 121903.
+
+2) Kotaro Obata, Shayna Slobin, ***Adam Schonewille***, Arndt Hohnholz, Claudia Unger, Jürgen Koch, Oliver Suttmann, and Ludger Overmeyer. (2017). *"UV laser direct writing of 2D/3D structures using photo-curable polydimethylsiloxane (PDMS)"*. Applied Physics A. 123: 495. -->
+
 
 <br>
 
