@@ -10,11 +10,13 @@ Toronto, Ontario
 <!-- **Cell:** 604-825-6843 -->
 
 **E-mail:**
+
 adamschonewille 'at' gmail 'dot' com
 
 or
 
 adam 'dot' schonewille 'at' mail 'dot' utoronto 'dot' ca
+
 
 
 

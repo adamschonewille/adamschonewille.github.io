@@ -27,7 +27,7 @@ navbar-links:
   About Me: "aboutme"
   Experience: "experience"
   Publications: "pub"
-  Dabblings: "dab"
+  # Dabblings: "dab"
 #  Collaborations: "collab"
 #  Team: "team"
 #  Software: "software"

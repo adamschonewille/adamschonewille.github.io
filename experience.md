@@ -39,14 +39,18 @@ arms have 1 and 2 degrees of freedom mount to chase cars for filming application
 **• Documentation:** Wrote reports to send to clients, documented prototype progress, and kept a detailed logbook of research and
 development experiments.<br/>
 
----- 
+----
 
 # **Research Experience**
 
 ## University of Toronto – Department of Mechanical and Industrial Engineering<br/>
 ### **Microrobotics Graduate Research Position with Dr. Eric Diller,**<br/>
-*Toronto, Canada.     Sept. 2018 – present*<br/>
+*Toronto, Canada.     Sept. 2018 – Mar. 2022*<br/>
 <br/>
+
+**About:** Under the supervision of Dr. Eric Diller, developed a clinical magnetic actuation system responsible for wirelessly controlling robotic microsurgical tools targeting minimally-invasive neurosurgery. Significantly increased the accessibility the surgeon has to the patient.
+
+**• Technical Expertise:** This project required simulating the physics in MATLAB and COMSOL, optimizing the layout of actuators in MATLAB, designing the structure of the system in SolidWorks, machining components on a lathe and milling machine, prototyping assembly jigs, designing high voltage AC and DC power circuitry, amplification and filtering of control signals, GUI and API programming in C++ to allow the user to input commands, and calibrations and modelling to validate the performance of the system.
 
 ---
 
